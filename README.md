@@ -27,12 +27,11 @@ The dataset used is the Mall Customers Dataset.
 
 
 Features
-Column	               Description
-CustomerID	           Unique customer identifier
-Gender	               Customer gender
-Age	                   Customer age
-Annual Income (k$)     Annual income in thousand dollars
-Spending Score (1-100) Spending behavior score
+- CustomerID-Unique customer identifier
+- Gender-Customer gender
+- Age-Customer age
+- Annual Income (k$)-Annual income in thousand dollars
+- Spending Score (1-100)-Spending behavior score
 
 
 ## Technologies Used
