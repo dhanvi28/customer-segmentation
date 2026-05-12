@@ -26,14 +26,13 @@ The goal of this project is to group customers into meaningful segments that can
 The dataset used is the Mall Customers Dataset.
 
 
-### Features
+Features
 Column	               Description
 CustomerID	           Unique customer identifier
 Gender	               Customer gender
 Age	                   Customer age
 Annual Income (k$)     Annual income in thousand dollars
 Spending Score (1-100) Spending behavior score
----
 
 
 ## Technologies Used
