@@ -74,6 +74,11 @@ The model was trained using:
 - Cluster distribution analysis
 
 
+## Project Visualization
+<img width="1869" height="853" alt="image" src="https://github.com/user-attachments/assets/5cb4757f-6f24-4a3e-8fb5-a15a80b5a36d" />
+<img width="888" height="723" alt="image" src="https://github.com/user-attachments/assets/ab264621-4b5f-4ccf-b715-954834740148" />
+
+
 ## Key Insights
 - High-income customers do not always have high spending scores.
 - Distinct customer groups can be identified based on purchasing behavior.
